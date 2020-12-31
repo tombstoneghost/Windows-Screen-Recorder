@@ -1,0 +1,6 @@
+future~=0.18.2
+moviepy~=1.0.3
+PyAutoGUI~=0.9.52
+numpy~=1.19.3
+opencv-python~=4.4.0.46
+PyAudio~=0.2.11
