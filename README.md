@@ -13,7 +13,7 @@ A basic screen recorder desktop application for windows developed using Python 3
 
 ## Installation and Execution
 
-	git clone [url]
+	git clone https://github.com/tombstoneghost/Windows-Screen-Recorder.git
 	cd windows-screen-recorder
 	python3.9 -m pip install -r requirements.txt
 	python3.9 main.py
